@@ -1,0 +1,13 @@
+{
+    "name": "ShowingRelease",
+    "alias": "showingrelease",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ShowingRelease\\Providers\\ShowingReleaseServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "TicketFoodCombo",
+    "alias": "ticketfoodcombo",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TicketFoodCombo\\Providers\\TicketFoodComboServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

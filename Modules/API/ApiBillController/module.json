@@ -1,0 +1,13 @@
+{
+    "name": "API/ApiBillController",
+    "alias": "api/apibillcontroller",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\API/ApiBillController\\Providers\\API/ApiBillControllerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

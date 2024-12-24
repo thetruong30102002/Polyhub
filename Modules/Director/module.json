@@ -1,0 +1,13 @@
+{
+    "name": "Director",
+    "alias": "director",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Director\\Providers\\DirectorServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

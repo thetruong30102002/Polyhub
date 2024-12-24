@@ -1,0 +1,13 @@
+{
+    "name": "FoodCombo",
+    "alias": "foodcombo",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FoodCombo\\Providers\\FoodComboServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

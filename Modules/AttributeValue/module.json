@@ -1,0 +1,13 @@
+{
+    "name": "AttributeValue",
+    "alias": "attributevalue",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AttributeValue\\Providers\\AttributeValueServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "SeatShowtimeStatus",
+    "alias": "seatshowtimestatus",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SeatShowtimeStatus\\Providers\\SeatShowtimeStatusServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

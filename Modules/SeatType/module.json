@@ -1,0 +1,13 @@
+{
+    "name": "SeatType",
+    "alias": "seattype",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SeatType\\Providers\\SeatTypeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

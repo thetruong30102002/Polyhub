@@ -1,0 +1,13 @@
+{
+    "name": "CinemaType",
+    "alias": "cinematype",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CinemaType\\Providers\\CinemaTypeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Actor",
+    "alias": "actor",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Actor\\Providers\\ActorServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

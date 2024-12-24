@@ -1,0 +1,13 @@
+{
+    "name": "Checkin",
+    "alias": "checkin",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Checkin\\Providers\\CheckinServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

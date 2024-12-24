@@ -1,0 +1,13 @@
+{
+    "name": "RankMember",
+    "alias": "rankmember",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\RankMember\\Providers\\RankMemberServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
